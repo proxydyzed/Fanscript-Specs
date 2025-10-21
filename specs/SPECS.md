@@ -84,9 +84,5 @@ if (expr) {
 ```
 
 ### Drafts
-- named function parameters
-- snake case for everything
-- replace `_` with space charecter in compiled fancode
-- loops `for i in (0..1) {}`
-- variables `var num = 1;`
-- multiple wires `var [hit, hitPos, hitObj] = raycast(from, to)`
+- Named function parameters
+- Multiple wires `var [hit, hitPos, hitObj] = raycast(from, to)`
